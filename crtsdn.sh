@@ -1,5 +1,5 @@
 if [ "$#" -ne 1 ]; then
-    echo "Usage: ./create-rtsdn.sh project-name"
+    echo "Usage: ./crtsdn.sh project-name"
     exit 2
 fi
 
