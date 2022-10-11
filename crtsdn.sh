@@ -47,5 +47,3 @@ printf "You may read the official documentation at https://learn.microsoft.com/e
 printf "For contributions, improvements to this bash script, or if you found any bugs, go to ${GREEN}https://github.com/raihahahan${NC}.\n\n"
 printf "Do ${YELLOW}star${NC} the repository if this was helpful!"
 printf "\n\n************************************************************************\n\n"
-
-
